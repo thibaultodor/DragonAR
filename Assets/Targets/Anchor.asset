@@ -1,0 +1,39 @@
+﻿%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Anchor
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4946090322979245656
+  m_GuidHigh: 8138236266305967032
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4781408318583974824
+      m_GuidHigh: 16909161933088759996
+    m_SerializedTextureGuid:
+      m_GuidLow: 2298052971126201945
+      m_GuidHigh: 5111932706921927496
+    m_Size: {x: 0.15, y: 0.105000004}
+    m_SpecifySize: 0
+    m_Name: grayscale
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5633076224918873300
+      m_GuidHigh: 10037429960372963734
+    m_SerializedTextureGuid:
+      m_GuidLow: 2374529233446024018
+      m_GuidHigh: 7544456393177180024
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: DragonAR
+    m_Texture: {fileID: 0}
